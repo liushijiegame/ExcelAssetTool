@@ -1,4 +1,4 @@
-unity 打表工具，谁用谁知道。  
+unity 打表工具，谁用谁知道。喜欢的给星扩散。  
 生成工具  
 ![image](https://github.com/liushijiegame/ExcelAssetTool/assets/13254710/2b7a244f-8821-45b9-a15c-63af420e0b1b)  
 测试场景  
